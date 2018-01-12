@@ -1,0 +1,11 @@
+Section: misc
+Priority: optional
+Homepage: http://mime.co.uk
+Standards-Version: 3.9.2
+
+Package: headlesspi-mearm
+Version: 1.0.0
+Maintainer: Ben Pirt <ben.pirt@mime.co.uk>
+Depends: headlesspi-mearm-blockly, headlesspi-mearm-python, headlesspi-mearm-javascript, headlesspi-mearm-snap
+Architecture: all
+Description: A meta-package to install all MeArm headlessPi apps along with all dependencies
